@@ -1,22 +1,22 @@
 # Data-science
-# 🚀 My ROADMAP to Data Science
+#  My ROADMAP to Data Science
 
 Welcome to my personal roadmap for mastering Data Science! This repository is a structured guide to help you navigate the journey from beginner to expert in the field of data science.
 
 ---
 
-## 📚 Roadmap Overview
+##  Roadmap Overview
 
 This roadmap is divided into three main stages:
 
-### 🟢 Beginner
+###  Beginner
 - Python fundamentals
 - Basic statistics
 - Data visualization (Matplotlib, Seaborn)
 - Introduction to Pandas and NumPy
 - Exploratory Data Analysis (EDA)
 
-### 🟡 Intermediate
+###  Intermediate
 - Machine Learning algorithms (Regression, Classification, Clustering)
 - Scikit-learn
 - Feature engineering
@@ -32,7 +32,7 @@ This roadmap is divided into three main stages:
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 | Category         | Tools & Libraries                          |
 |------------------|--------------------------------------------|
@@ -49,10 +49,10 @@ This roadmap is divided into three main stages:
 
 ##  Goals
 
-- ✅ Build a strong foundation in data science
-- ✅ Complete hands-on projects
-- ✅ Prepare for job interviews
-- ✅ Contribute to open-source projects
+- . Build a strong foundation in data science
+- . Complete hands-on projects
+- . Prepare for job interviews
+- . Contribute to open-source projects
 
 
 
