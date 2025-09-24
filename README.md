@@ -39,4 +39,20 @@ This roadmap is divided into three main stages:
 | Programming      | Python, R                                  |
 | Visualization    | Matplotlib, Seaborn, Plotly                |
 | ML/DL Frameworks | Scikit-learn, TensorFlow, PyTorch          |
-| Data Handling   
+| Data Handling    | Pandas, NumPy, SQL                         |
+| Deployment       | Flask, Streamlit, Docker                   |
+
+---
+
+
+---
+
+##  Goals
+
+- ✅ Build a strong foundation in data science
+- ✅ Complete hands-on projects
+- ✅ Prepare for job interviews
+- ✅ Contribute to open-source projects
+
+
+
